@@ -2,7 +2,7 @@
     "name": "study-create-package/print-text",
     "description": "Study of creation composer package",
     "type": "library",
-    "license": "STUDY",
+    "license": "SWL",
     "authors": [
         {
             "name": "Evgenii Rusnak",
