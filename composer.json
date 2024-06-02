@@ -9,6 +9,11 @@
             "email": "djonik1612@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "StudyCreatePackage\\PrintText\\": "src/package.php"
+        }
+    },
     "minimum-stability": "dev",
     "require": {
         "php": "^8.0"
