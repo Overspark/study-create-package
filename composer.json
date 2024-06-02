@@ -1,0 +1,16 @@
+{
+    "name": "study-create-package/print-text",
+    "description": "Study of creation composer package",
+    "type": "library",
+    "license": "STUDY",
+    "authors": [
+        {
+            "name": "Evgenii Rusnak",
+            "email": "djonik1612@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0"
+    }
+}
